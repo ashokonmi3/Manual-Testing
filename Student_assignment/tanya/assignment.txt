@@ -1,0 +1,26 @@
+molibe sms
+Feature test/ Component Test
+ 
+ 1. To test copy Sms works properly
+ 2. To test group Sms works properly
+ 3. To test stop sms works properly
+
+Integration test
+
+ 1. To test capture a picture and send it through sms.
+ 2. to Test record a video and send it through sms
+ 3. to test download an emoji and send it through sms.
+
+ WhatsApp
+Feature test/ Component Test
+ 
+ 1. To test send messages works properly
+ 2. To test  calling works properly
+ 3. To test  message read works properly
+
+Integration test
+
+ 1. To test capture a picture and send it through whatsapp.
+ 2. to Test send documents through whatsApp
+ 3. to test WhatsApp allows to access your location.
+
